@@ -1,0 +1,7 @@
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\bin\Debug\SigninWithCRUD.exe.config
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\bin\Debug\SigninWithCRUD.exe
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\bin\Debug\SigninWithCRUD.pdb
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\obj\Debug\SigninWithCRUD.csproj.AssemblyReference.cache
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\obj\Debug\SigninWithCRUD.csproj.CoreCompileInputs.cache
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\obj\Debug\SigninWithCRUD.exe
+C:\Users\MR NoN\source\repos\SigninWithCRUD\SigninWithCRUD\obj\Debug\SigninWithCRUD.pdb
